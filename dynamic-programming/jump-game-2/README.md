@@ -7,3 +7,4 @@ i + j < n
 Return the minimum number of jumps to reach nums[n - 1]. The test cases are generated such that you can reach nums[n - 1].
 
 
+![image](https://github.com/bettafish15/algorithms/assets/40290448/f9eaddf5-b56e-4ae1-9798-4f152cb8540e)
