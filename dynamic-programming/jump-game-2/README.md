@@ -1,10 +1,24 @@
-You are given a 0-indexed array of integers nums of length n. You are initially positioned at nums[0].
+Given an integer array nums of unique elements, return all possible
+subsets
+ (the power set).
 
-Each element nums[i] represents the maximum length of a forward jump from index i. In other words, if you are at nums[i], you can jump to any nums[i + j] where:
+The solution set must not contain duplicate subsets. Return the solution in any order.
 
-0 <= j <= nums[i] and
-i + j < n
-Return the minimum number of jumps to reach nums[n - 1]. The test cases are generated such that you can reach nums[n - 1].
 
+Example 1:
+
+Input: nums = [1,2,3]
+Output: [[],[1],[2],[1,2],[3],[1,3],[2,3],[1,2,3]]
+Example 2:
+
+Input: nums = [0]
+Output: [[],[0]]
+
+
+Constraints:
+
+1 <= nums.length <= 10
+-10 <= nums[i] <= 10
+All the numbers of nums are unique.
 
 ![image](https://github.com/bettafish15/algorithms/assets/40290448/f9eaddf5-b56e-4ae1-9798-4f152cb8540e)
