@@ -21,3 +21,5 @@ Constraints:
 1 <= nums1.length, nums2.length <= 105
 1 <= nums1[i], nums2[j] <= 109
 Both nums1 and nums2 are sorted in non-decreasing order.
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/17d886f2-5d16-4c2f-8198-25f43ec32f07)
