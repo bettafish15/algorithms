@@ -30,3 +30,4 @@ Constraints:
 digits[i] is a digit in the range ['2', '9'].
 
 
+![image](https://github.com/bettafish15/algorithms/assets/40290448/424e1f36-1e13-4495-b7ed-bfa64363e8cc)
