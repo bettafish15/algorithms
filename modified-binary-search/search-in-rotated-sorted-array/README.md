@@ -34,3 +34,5 @@ Constraints:
 All values of nums are unique.
 nums is an ascending array that is possibly rotated.
 -104 <= target <= 104
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/677165e1-a4de-43f2-8306-df7a6ce52daf)
