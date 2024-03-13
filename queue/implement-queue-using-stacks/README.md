@@ -43,5 +43,5 @@ All the calls to pop and peek are valid.
 
 Follow-up: Can you implement the queue such that each operation is amortized O(1) time complexity? In other words, performing n operations will take overall O(n) time even if one of those operations may take longer.
 
-![Uploading image.png…]()
+![image](https://github.com/bettafish15/algorithms/assets/40290448/a9f67599-2ce9-4e78-b0d3-f335f3fa9031)
 
