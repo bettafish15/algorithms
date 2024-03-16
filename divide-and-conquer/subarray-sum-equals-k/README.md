@@ -25,3 +25,4 @@ Constraints:
 1 <= nums.length <= 2 * 104
 -1000 <= nums[i] <= 1000
 -107 <= k <= 107
+![image](https://github.com/bettafish15/algorithms/assets/40290448/7a77c634-30ae-439e-a013-2c0aefa7c022)
