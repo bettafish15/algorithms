@@ -29,3 +29,4 @@ Constraints:
 1 <= nums.length <= 3 * 104
 nums[i] is either 0 or 1.
 0 <= goal <= nums.length
+![image](https://github.com/bettafish15/algorithms/assets/40290448/66a0f62c-4885-458e-9865-f8f1b3b1ede9)
