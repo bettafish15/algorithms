@@ -22,3 +22,5 @@ Constraints:
 1 <= a.length, b.length <= 104
 a and b consist only of '0' or '1' characters.
 Each string does not contain leading zeros except for the zero itself.
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/ba26cac8-6f9b-40b6-90b8-28479568a0f3)
