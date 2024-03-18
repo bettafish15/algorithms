@@ -37,3 +37,6 @@ Constraints:
 1 <= points.length <= 105
 points[i].length == 2
 -231 <= xstart < xend <= 231 - 1
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/7b2bf510-44e6-4aeb-8895-732ea0c1f63f)
+
