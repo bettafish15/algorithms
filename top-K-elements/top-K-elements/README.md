@@ -26,3 +26,5 @@ It is guaranteed that the answer is unique.
 
 
 Follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
+<br />
+![image](https://github.com/bettafish15/algorithms/assets/40290448/ef4fd04a-1a53-4ca8-bc72-28f6780148a9)
