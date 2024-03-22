@@ -20,3 +20,6 @@ Output: [[1]]
 Constraints:
 
 1 <= n <= 8
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/09a68bb1-4ecb-4e9e-b002-b31519e4342a)
