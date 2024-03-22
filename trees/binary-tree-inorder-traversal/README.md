@@ -29,3 +29,6 @@ The number of nodes in the tree is in the range [0, 100].
 
 
 Follow up: Recursive solution is trivial, could you do it iteratively?
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/e267cbed-9900-452f-9c58-c8c1d2ab6d86)
