@@ -36,10 +36,10 @@ Constraints:
 k == lists.length
 0 <= k <= 104
 
-
-![image](https://github.com/bettafish15/algorithms/assets/40290448/9c8529d9-fb75-4425-8bf5-b046aec93fa2)
-
 0 <= lists[i].length <= 500
 -104 <= lists[i][j] <= 104
 lists[i] is sorted in ascending order.
 The sum of lists[i].length will not exceed 104.
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/9c8529d9-fb75-4425-8bf5-b046aec93fa2)
