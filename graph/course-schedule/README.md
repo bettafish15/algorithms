@@ -32,3 +32,6 @@ Constraints:
 prerequisites[i].length == 2
 0 <= ai, bi < numCourses
 All the pairs prerequisites[i] are unique.
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/be28cd04-6d06-4b92-89f1-5a08be036fd3)
