@@ -44,3 +44,8 @@ a != b
 0 <= succProb.length == edges.length <= 2*10^4
 0 <= succProb[i] <= 1
 There is at most one edge between every two nodes.
+
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/a2840a54-e9c6-45cf-bcf9-57b50016c0d2)
+
