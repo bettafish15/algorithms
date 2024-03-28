@@ -28,3 +28,4 @@ Constraints:
 s[i] is either 'A', 'C', 'G', or 'T'.
 
 
+![image](https://github.com/bettafish15/algorithms/assets/40290448/be85983c-c71c-41c8-a4be-f770e4ae0c3c)
