@@ -32,3 +32,6 @@ Constraints:
 
 
 Follow up: If you have figured out the O(n) solution, try coding another solution of which the time complexity is O(n log(n)).
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/4ff65653-703e-4b2f-9917-65a1477c28bd)
