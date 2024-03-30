@@ -26,3 +26,7 @@ Constraints:
 1 <= nums.length <= 105
 -109 <= nums[i] <= 109
 0 <= k <= 105
+
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/912621a0-27cb-4658-8dcc-33b1aec9411c)
