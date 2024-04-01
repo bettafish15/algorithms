@@ -36,3 +36,5 @@ Constraints:
 1 <= k <= nums.length
 
 
+![image](https://github.com/bettafish15/algorithms/assets/40290448/0320de8e-273e-437a-9204-60c36344e887)
+
