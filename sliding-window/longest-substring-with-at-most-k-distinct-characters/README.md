@@ -27,3 +27,4 @@ Constraints:
 0 <= k <= 50
 
 
+![image](https://github.com/bettafish15/algorithms/assets/40290448/e56df2ce-cab8-482e-aab7-3ceab66265ad)
