@@ -30,6 +30,8 @@ Example 3:
 Input: candidates = [2], target = 1
 Output: []
 
+![image](https://github.com/bettafish15/algorithms/assets/40290448/ef8476db-0b45-4dd9-b287-702ab77f694f)
+
 
 Constraints:
 
