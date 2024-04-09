@@ -30,3 +30,8 @@ board.length == 9
 board[i].length == 9
 board[i][j] is a digit or '.'.
 It is guaranteed that the input board has only one solution.
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/9bdae7b2-a4f0-4186-8e94-62f59c539b1c)
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/efd39bdd-8ad6-4a1e-98a5-176e243b3c91)
