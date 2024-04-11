@@ -26,3 +26,5 @@ Constraints:
 1 <= nums.length <= 6
 -10 <= nums[i] <= 10
 All the integers of nums are unique.
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/fda3bcf3-bc30-4af8-a803-a77bdb44517b)
