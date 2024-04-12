@@ -24,3 +24,6 @@ Constraints:
 
 1 <= nums.length <= 8
 -10 <= nums[i] <= 10
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/d15136fd-831e-4bc5-8b85-fb7a9bef8e52)
