@@ -26,3 +26,5 @@ Output: [["Q"]]
 Constraints:
 
 1 <= n <= 9
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/1c7ca5c7-41b2-4f33-83cd-52d275805cf1)
