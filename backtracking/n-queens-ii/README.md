@@ -24,3 +24,5 @@ Output: 1
 Constraints:
 
 1 <= n <= 9
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/6d9c6b44-aaad-430e-8505-0015b782570a)
