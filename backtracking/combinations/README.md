@@ -26,3 +26,5 @@ Constraints:
 
 1 <= n <= 20
 1 <= k <= n
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/06faede2-427f-489d-8dda-fcbe4cde13c6)
