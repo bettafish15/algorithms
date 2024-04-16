@@ -1,9 +1,9 @@
 pattern, 
-data structure,  
+data structure,
 algorithm
 
-Here are the patterns: 15
-1. Sliding Window - 7
+Here are the patterns
+1. Sliding Window
 2. Islands (Matrix Traversal)
 3. Two Pointers
 4. Fast & Slow Pointers
