@@ -42,3 +42,6 @@ board and word consists of only lowercase and uppercase English letters.
 
 Follow up: Could you use search pruning to make your solution faster with a larger board?
 
+![image](https://github.com/bettafish15/algorithms/assets/40290448/a04512fa-6d56-4488-83c7-00b8ea8a60e6)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/dd44c106-f5a0-4334-9c19-16a298fb994d)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/67b76820-5de1-46df-90b0-646b563cfa4e)
