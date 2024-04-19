@@ -28,3 +28,5 @@ Constraints:
 
 1 <= s.length <= 20
 s consists of digits only.
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/ac2d0d0d-2836-4c51-81a0-60e70bbb43e4)
