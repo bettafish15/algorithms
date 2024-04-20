@@ -33,3 +33,6 @@ Constraints:
 The number of nodes in the tree is in the range [0, 5000].
 -1000 <= Node.val <= 1000
 -1000 <= targetSum <= 1000
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/6fe8c57a-6635-4f84-97ab-51a1fbd66bdf)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/9b70f839-a40c-44a2-89a6-a993af9306bf)
