@@ -25,3 +25,5 @@ Constraints:
 
 1 <= s.length <= 16
 s contains only lowercase English letters.
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/785effbb-6400-4fe2-a029-0b6d10d30c76)
