@@ -33,3 +33,5 @@ Constraints:
  
 
 Follow up: If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/f5118672-568c-464f-ba9c-9e148e9b5302)
