@@ -30,3 +30,5 @@ Explanation: There are three ways to climb to the top.
 Constraints:
 
 1 <= n <= 45
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/27a45e26-9ec0-4577-bfaa-3c9933f61753)
