@@ -23,3 +23,5 @@ Output: [[1]]
 Constraints:
 
 1 <= numRows <= 30
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/7c859311-8dc1-40f7-bb2e-11007dc1740a)
