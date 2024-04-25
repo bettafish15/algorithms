@@ -29,3 +29,6 @@ Explanation: From the top-left corner, there are a total of 3 ways to reach the 
 Constraints:
 
 1 <= m, n <= 100
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/87a1d9d4-c0b4-45e8-a021-8d3ec841f30a)
