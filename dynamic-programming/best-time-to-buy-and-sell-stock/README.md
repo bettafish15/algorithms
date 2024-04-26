@@ -32,3 +32,5 @@ Constraints:
 
 1 <= prices.length <= 105
 0 <= prices[i] <= 104
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/82771b8e-9e42-4044-acda-9240577ee8e6)
