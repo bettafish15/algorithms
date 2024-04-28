@@ -33,3 +33,5 @@ Constraints:
 1 <= wordDict[i].length <= 20
 s and wordDict[i] consist of only lowercase English letters.
 All the strings of wordDict are unique.
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/41d8afe1-1799-46db-8d06-e4db989ac354)
