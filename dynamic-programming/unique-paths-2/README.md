@@ -36,3 +36,7 @@ m == obstacleGrid.length
 n == obstacleGrid[i].length
 1 <= m, n <= 100
 obstacleGrid[i][j] is 0 or 1.
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/b38c78d3-86bd-41c9-9ec6-fa4e01089fd8)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/e6e8c7c5-ff8b-4a6f-8ada-06502ba0b434)
