@@ -36,9 +36,13 @@ Example 3:
 Input: s = "06"
 Output: 0
 Explanation: "06" cannot be mapped to "F" because of the leading zero ("6" is different from "06").
- 
 
 Constraints:
 
 1 <= s.length <= 100
 s contains only digits and may contain leading zero(s).
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/d16982a0-907e-41b9-bed5-f9e0f1ab05e3)
+
+ ![image](https://github.com/bettafish15/algorithms/assets/40290448/0b3bc6ae-a780-4668-b392-4bba796b0e15)
