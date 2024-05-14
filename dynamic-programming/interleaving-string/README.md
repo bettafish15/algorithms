@@ -45,3 +45,9 @@ s1, s2, and s3 consist of lowercase English letters.
  
 
 Follow up: Could you solve it using only O(s2.length) additional memory space?
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/8f8a5188-a323-4e79-9ff3-9cdd8a60233d)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/427034ef-4fbf-48a1-9b60-d4a097f1064f)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/49b8f04c-f03d-432e-ac5e-5ae93457105d)
+
+
