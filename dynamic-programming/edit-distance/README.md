@@ -37,3 +37,6 @@ Constraints:
 0 <= word1.length, word2.length <= 500
 word1 and word2 consist of lowercase English letters.
 
+![image](https://github.com/bettafish15/algorithms/assets/40290448/06d7f774-e3b5-4c1d-8245-a39a1d74ad4b)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/85771df9-ee92-469f-a4c0-447f83f247eb)
+
