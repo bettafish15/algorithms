@@ -30,3 +30,8 @@ Constraints:
  
 
 Follow up: Could you optimize your algorithm to use only O(rowIndex) extra space?
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/3589b27c-4c96-4f93-918f-5cfac29ee8d9)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/0b773a73-a569-417c-9c92-57ab64f912c8)
+
