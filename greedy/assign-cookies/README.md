@@ -30,3 +30,8 @@ Constraints:
 1 <= g.length <= 3 * 104
 0 <= s.length <= 3 * 104
 1 <= g[i], s[j] <= 231 - 1
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/51cf4577-2406-40d5-bfd1-c66d36060bfa)
+![image](https://github.com/bettafish15/algorithms/assets/40290448/414d3fb6-0f17-41b5-8403-17ca73e4d202)
+
