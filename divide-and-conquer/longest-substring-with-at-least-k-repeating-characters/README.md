@@ -1,0 +1,30 @@
+340. Longest Substring with At Most K Distinct Characters
+Solved
+Medium
+Topics
+Companies
+Given a string s and an integer k, return the length of the longest
+substring
+ of s that contains at most k distinct characters.
+
+
+
+Example 1:
+
+Input: s = "eceba", k = 2
+Output: 3
+Explanation: The substring is "ece" with length 3.
+Example 2:
+
+Input: s = "aa", k = 1
+Output: 2
+Explanation: The substring is "aa" with length 2.
+
+
+Constraints:
+
+1 <= s.length <= 5 * 104
+0 <= k <= 50
+
+
+![image](https://github.com/bettafish15/algorithms/assets/40290448/e56df2ce-cab8-482e-aab7-3ceab66265ad)
