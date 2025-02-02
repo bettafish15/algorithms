@@ -35,3 +35,5 @@ Constraints:
 
 1 <= nums.length <= 100
 1 <= nums[i] <= 100
+
+![image](https://github.com/user-attachments/assets/db64fa1a-e95e-40b1-92e2-c62ebe6cb0f4)
