@@ -31,3 +31,5 @@ Output: [5,3,1,4,3,5,2,4,2]
 Constraints:
 
 1 <= n <= 20
+
+![image](https://github.com/user-attachments/assets/e2930599-5b8d-4e26-9115-7aa2952db342)
