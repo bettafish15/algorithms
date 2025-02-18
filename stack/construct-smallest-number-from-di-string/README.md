@@ -33,6 +33,7 @@ Explanation:
 Some possible values of num are "9876", "7321", and "8742".
 It can be proven that "4321" is the smallest possible num that meets the conditions.
 
+![image](https://github.com/user-attachments/assets/9493e3b4-3488-4aec-8645-2e30d2a411c6)
 
 Constraints:
 
