@@ -32,3 +32,5 @@ n == nums.length
 nums[i].length == n
 nums[i] is either '0' or '1'.
 All the strings of nums are unique.
+
+![image](https://github.com/user-attachments/assets/7835d00f-1786-46c2-ab4e-70eb62078fb5)
