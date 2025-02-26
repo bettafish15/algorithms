@@ -30,3 +30,5 @@ Constraints:
 
 1 <= nums.length <= 105
 -104 <= nums[i] <= 104
+
+<img width="1102" alt="image" src="https://github.com/user-attachments/assets/e62d9e0e-feff-4218-8bfb-fddc562f9dfa" />
