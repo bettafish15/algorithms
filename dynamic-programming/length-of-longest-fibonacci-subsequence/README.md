@@ -29,3 +29,5 @@ Constraints:
 
 3 <= arr.length <= 1000
 1 <= arr[i] < arr[i + 1] <= 109
+
+![image](https://github.com/user-attachments/assets/3923dbfb-2cd4-4083-821b-0d66cf598178)
