@@ -37,3 +37,6 @@ Constraints:
 1 <= nums.length <= 105
 -106 <= nums[i] <= 106
 pivot equals to an element of nums.
+
+![image](https://github.com/user-attachments/assets/215b2679-3d0c-483c-a255-25fa191640a7)
+
