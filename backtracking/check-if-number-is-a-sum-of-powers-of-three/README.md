@@ -29,3 +29,5 @@ Output: false
 Constraints:
 
 1 <= n <= 107
+
+![image](https://github.com/user-attachments/assets/56024c31-c425-4729-87c8-1ab40a8dceb0)
