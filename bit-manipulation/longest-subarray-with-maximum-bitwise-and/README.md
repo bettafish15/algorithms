@@ -33,6 +33,8 @@ Explanation:
 The maximum possible bitwise AND of a subarray is 4.
 The longest subarray with that value is [4], so we return 1.
 
+<img width="1098" height="818" alt="image" src="https://github.com/user-attachments/assets/f4ab0dec-dea7-484f-ba5c-b3872b80e8d8" />
+
 
 Constraints:
 
