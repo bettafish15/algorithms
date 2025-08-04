@@ -35,3 +35,6 @@ Constraints:
 
 1 <= fruits.length <= 105
 0 <= fruits[i] < fruits.length
+
+<img width="1504" height="832" alt="image" src="https://github.com/user-attachments/assets/72b76e2e-0292-4ff9-a44e-de769fc66450" />
+<img width="1504" height="124" alt="image" src="https://github.com/user-attachments/assets/a76295fe-843d-452f-aaf7-b53a62cf9e4d" />
