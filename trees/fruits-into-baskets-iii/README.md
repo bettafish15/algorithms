@@ -49,3 +49,6 @@ Constraints:
 n == fruits.length == baskets.length
 1 <= n <= 105
 1 <= fruits[i], baskets[i] <= 109
+
+<img width="816" height="684" alt="image" src="https://github.com/user-attachments/assets/7415cb5b-eb39-4af0-a60f-1777e2ee7adf" />
+<img width="816" height="506" alt="image" src="https://github.com/user-attachments/assets/93120e76-b2ba-41c6-ad02-59e809bce3cd" />
