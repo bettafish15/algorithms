@@ -58,3 +58,7 @@ Constraints:
 
 2 <= n == fruits.length == fruits[i].length <= 1000
 0 <= fruits[i][j] <= 1000
+
+<img width="1061" height="637" alt="image" src="https://github.com/user-attachments/assets/d74e318b-2480-487e-889b-9e77e2eadfd6" />
+<img width="1061" height="781" alt="image" src="https://github.com/user-attachments/assets/eb22339b-2ada-4f95-abbd-03997b9d829f" />
+<img width="1061" height="241" alt="image" src="https://github.com/user-attachments/assets/7ef7d3e5-d4f5-45c9-8638-e44f1ec6e4a4" />
