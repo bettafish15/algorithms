@@ -38,10 +38,12 @@ The non-zero digit is 1, so x = 1 and sum = 1.
 Therefore, the answer is x * sum = 1 * 1 = 1.
 
 
-<img width="635" height="719" alt="image" src="https://github.com/user-attachments/assets/3b46778c-7bef-45d9-8cf4-bd51158921d4" />
-
-
-
 Constraints:
 
 0 <= n <= 109
+
+
+
+
+<img width="635" height="719" alt="image" src="https://github.com/user-attachments/assets/3b46778c-7bef-45d9-8cf4-bd51158921d4" />
+
