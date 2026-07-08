@@ -75,3 +75,6 @@ s consists of digits only.
 1 <= queries.length <= 105
 queries[i] = [li, ri]
 0 <= li <= ri < m
+
+
+<img width="330" height="609" alt="image" src="https://github.com/user-attachments/assets/b346f075-6ef4-4af6-b009-71d509c9c89a" />
